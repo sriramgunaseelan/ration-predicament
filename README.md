@@ -12,7 +12,7 @@ Based on the given stock details, allocation, post allocation and remainder will
 
 ### remainder
 
-`Quality not allocated in allocation`
+`Quantity not allocated in allocation`
 
 ### Output
 
